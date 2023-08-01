@@ -1,0 +1,11 @@
+{
+    "name": "WaterDoor Config",
+    "id": null,
+    "password": null,
+    "protocol": {
+        "platform": "ios",
+        "gameid": "x19",
+        "app_channel": "app_store"
+    },
+    "account": {}
+}
